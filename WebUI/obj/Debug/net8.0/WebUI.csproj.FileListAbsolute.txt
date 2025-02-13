@@ -1,0 +1,205 @@
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Dapper.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Expressions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Application.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Domain.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Infrastructure.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Application.pdb
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Domain.pdb
+C:\Developer Back\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Infrastructure.pdb
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Developer Back\wsPruebaTecnica\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Dapper.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Expressions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Infrastructure.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Application.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Domain.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Infrastructure.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\WebUI\obj\Debug\net8.0\ref\WebUI.dll

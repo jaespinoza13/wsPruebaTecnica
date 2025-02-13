@@ -1,0 +1,15 @@
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.csproj.AssemblyReference.cache
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.AssemblyInfoInputs.cache
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.AssemblyInfo.cs
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Developer Back\wsPruebaTecnica\Application\bin\Release\net8.0\Application.deps.json
+C:\Developer Back\wsPruebaTecnica\Application\bin\Release\net8.0\Application.dll
+C:\Developer Back\wsPruebaTecnica\Application\bin\Release\net8.0\Application.pdb
+C:\Developer Back\wsPruebaTecnica\Application\bin\Release\net8.0\Domain.dll
+C:\Developer Back\wsPruebaTecnica\Application\bin\Release\net8.0\Domain.pdb
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.dll
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\refint\Application.dll
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\Application.pdb
+C:\Developer Back\wsPruebaTecnica\Application\obj\Release\net8.0\ref\Application.dll

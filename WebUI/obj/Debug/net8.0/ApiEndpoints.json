@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "WebUI.Controllers.ApiUsuarioController",
+    "Method": "Usuarios",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UsuarioNombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Pass",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaCreacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

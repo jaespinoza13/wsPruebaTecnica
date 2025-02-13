@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "hY7e8XcVkdcdGiblFXmM23hh82NGYiiaeRV6M3bTMrI=",
+  "Source": "WebUI",
+  "BasePath": "_content/WebUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css",
+      "SourceId": "WebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/WebUI",
+      "RelativePath": "WebUI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebUI.styles.css"
+    },
+    {
+      "Identity": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css",
+      "SourceId": "WebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/WebUI",
+      "RelativePath": "WebUI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css"
+    }
+  ]
+}

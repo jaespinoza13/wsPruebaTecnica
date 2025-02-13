@@ -1,0 +1,12 @@
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Developer Back\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.deps.json
+C:\Developer Back\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.dll
+C:\Developer Back\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.pdb
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.dll
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\refint\Domain.dll
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.pdb
+C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\ref\Domain.dll
