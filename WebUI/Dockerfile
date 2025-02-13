@@ -1,25 +1,31 @@
-#See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
-
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-USER app
-WORKDIR /app
-EXPOSE 8080
-EXPOSE 8081
-
+# Etapa 1: Construcción de la aplicación
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-ARG BUILD_CONFIGURATION=Release
-WORKDIR /src
-COPY ["WebUI/WebUI.csproj", "WebUI/"]
-RUN dotnet restore "./WebUI/WebUI.csproj"
-COPY . .
-WORKDIR "/src/WebUI"
-RUN dotnet build "./WebUI.csproj" -c $BUILD_CONFIGURATION -o /app/build
-
-FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./WebUI.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
-
-FROM base AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+
+# Copiar archivos del proyecto y restaurar dependencias
+COPY *.sln ./
+COPY Application/*.csproj ./Application/
+COPY Domain/*.csproj ./Domain/
+COPY Infrastructure/*.csproj ./Infrastructure/
+COPY WebUI/*.csproj ./WebUI/
+RUN dotnet restore
+
+# Copiar el código restante y compilar la aplicación
+COPY . .
+WORKDIR /app/WebUI
+RUN dotnet publish -c Release -o /out
+
+# Etapa 2: Ejecución de la aplicación
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+WORKDIR /app
+
+COPY --from=build /out .
+
+# Exponer el puerto en el que corre la API
+EXPOSE 5078
+
+# Configurar la variable de entorno para producción
+ENV ASPNETCORE_URLS=http://+:5078
+ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
+
 ENTRYPOINT ["dotnet", "WebUI.dll"]
