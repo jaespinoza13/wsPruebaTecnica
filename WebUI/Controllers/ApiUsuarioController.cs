@@ -33,7 +33,7 @@ namespace WebUI.Controllers
 
                 if (response.Mensaje == "Autenticación exitosa")
                 {
-                    var token = await _authService.AuthenticateAsync(request.UsuarioNombre, request.Pass);
+                    var token = await _authService.AuthenticateAsync(request.UsuarioNombre);
 
                     return Ok(new
                     {
@@ -41,7 +41,6 @@ namespace WebUI.Controllers
                         token = token
                     });
                 }
-
                 return Unauthorized(new { Mensaje = response.Mensaje });
             }
             catch (UnauthorizedAccessException ex)

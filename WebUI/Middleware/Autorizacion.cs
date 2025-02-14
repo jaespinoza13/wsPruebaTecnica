@@ -14,36 +14,26 @@ public class Autorizacion : IAuthService
     {
         _configuration = configuration;
     }
-    public async Task<string> AuthenticateAsync(string username, string password)
+    public async Task<string> AuthenticateAsync(string username)
     {
-        // Lógica para validar las credenciales (esto depende de tu lógica de autenticación)
-        // Aquí puedes realizar la verificación con la base de datos o cualquier otra fuente de autenticación
+        var claims = new[]
+{
+        new Claim(ClaimTypes.Name, username),
+        new Claim(ClaimTypes.Role, "Usuario") // Puedes cambiar el rol si es necesario
+    };
 
-        if (username == "validUser" && password == "validPassword") // Este es un ejemplo de validación
-        {
-            // Si la validación es exitosa, generamos el token JWT
-            var claims = new[] {
-                new Claim(ClaimTypes.Name, username),
-                new Claim(ClaimTypes.Role, "Usuario")
-            };
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:SecretKey"]));
+        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:SecretKey"]));
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+        var token = new JwtSecurityToken(
+            issuer: _configuration["Jwt:Issuer"],
+            audience: _configuration["Jwt:Audience"],
+            claims: claims,
+            expires: DateTime.UtcNow.AddHours(1),
+            signingCredentials: creds
+        );
 
-            var token = new JwtSecurityToken(
-                issuer: _configuration["Jwt:Issuer"],
-                audience: _configuration["Jwt:Audience"],
-                claims: claims,
-                expires: DateTime.Now.AddHours(1),
-                signingCredentials: creds
-            );
-
-            return new JwtSecurityTokenHandler().WriteToken(token); // Retorna el token generado
-        }
-        else
-        {
-            throw new UnauthorizedAccessException("Credenciales incorrectas"); // Lanza un error si las credenciales son incorrectas
-        }
+        return new JwtSecurityTokenHandler().WriteToken(token);
     }
 }
 

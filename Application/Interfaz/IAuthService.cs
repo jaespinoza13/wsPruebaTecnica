@@ -8,6 +8,6 @@ namespace Application.Interfaz;
 
 public interface IAuthService
 {
-    Task<string> AuthenticateAsync(string username, string password);
+    Task<string> AuthenticateAsync(string username);
 
 }
