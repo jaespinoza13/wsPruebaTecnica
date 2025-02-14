@@ -24,14 +24,14 @@ public class ValidarUsuarioHandler : IRequestHandler<ReqValidarUsuario, ResValid
     public async Task<ResValidarUsuario> Handle(ReqValidarUsuario request, CancellationToken cancellationToken) 
     {
         try
-        {
+         {
             var response = await _validarUsuario.GetValidacionUsuario(request);
             return response;
         }
-        catch (Exception)
+        catch (Exception ex)
         {
 
-            throw;
+            return new ResValidarUsuario { Mensaje = $"Error: {ex.Message}" };
         }
     
     }

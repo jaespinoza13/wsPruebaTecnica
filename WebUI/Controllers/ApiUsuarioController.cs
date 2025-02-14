@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Components.Forms;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Application.Login;
+using Application.Interfaz;
 using MediatR;
-
+using System;
+using System.Threading.Tasks;
 
 namespace WebUI.Controllers
 {
@@ -11,35 +12,44 @@ namespace WebUI.Controllers
     [ApiController]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public class ApiUsuarioController : Controller
+    public class ApiUsuarioController : ControllerBase
     {
-
         private readonly IMediator _mediator;
+        private readonly IAuthService _authService;
 
-        // Inyectar IMediator en el constructor
-        public ApiUsuarioController(IMediator mediator)
+        public ApiUsuarioController(IMediator mediator, IAuthService authService)
         {
             _mediator = mediator;
+            _authService = authService;
         }
 
         [HttpPost("login")]
         [Produces("application/json")]
-        public async Task<IActionResult> Usuarios(ReqValidarUsuario request)
+        public async Task<IActionResult> Login(ReqValidarUsuario request)
         {
             try
             {
                 var response = await _mediator.Send(request);
 
-                if (response.Mensaje == "Credenciales incorrectas")
+                if (response.Mensaje == "Autenticación exitosa")
                 {
-                    return Unauthorized(response); // Retorna una respuesta de Unauthorized si las credenciales son incorrectas
+                    var token = await _authService.AuthenticateAsync(request.UsuarioNombre, request.Pass);
+
+                    return Ok(new
+                    {
+                        response = response.Mensaje,
+                        token = token
+                    });
                 }
 
-                return Ok(response); // Retorna una respuesta exitosa si las credenciales son correctas
+                return Unauthorized(new { Mensaje = response.Mensaje });
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                return Unauthorized(new { Mensaje = ex.Message });
             }
             catch (Exception ex)
             {
-                // Manejo global de excepciones
                 return StatusCode(500, new { Mensaje = $"Hubo un error: {ex.Message}" });
             }
         }

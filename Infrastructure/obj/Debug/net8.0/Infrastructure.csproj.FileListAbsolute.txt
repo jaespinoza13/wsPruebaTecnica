@@ -36,3 +36,23 @@ C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Infrastruct
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

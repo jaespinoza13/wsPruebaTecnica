@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejc0Mr4tXFY=",
+  "dgSpecHash": "Wze0ELVCUUs=",
   "success": true,
-  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jespinoza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jespinoza\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

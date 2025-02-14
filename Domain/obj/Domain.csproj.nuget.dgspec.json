@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {}
+    "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+    "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\obj\\",
+        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

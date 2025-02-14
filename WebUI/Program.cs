@@ -13,36 +13,53 @@ using Application.Login;
 using Infrastructure.Persistence;
 using Infrastructure;
 using WebUI;
-
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using WebUI.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configurar servicios para la autenticación JWT
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = builder.Configuration["Jwt:Issuer"], // El emisor de tu JWT
+            ValidAudience = builder.Configuration["Jwt:Audience"], // La audiencia de tu JWT
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"])) // Clave secreta
+        };
+    });
+builder.Services.AddControllers();
+builder.Services.AddAuthorization();
 builder.Services.AddWebUIServices(builder.Configuration);
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices();
-// Configuración de servicios
-builder.Services.AddSingleton<IConfiguration>(builder.Configuration); 
+builder.Services.AddScoped<IAuthService, Autorizacion>();
 
-// Registro de la clase ValidarUsuarioDat
+builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
+
 builder.Services.AddScoped<IValidarUsuarioDat, ValidarUsuarioDat>();
 
-// Configuración de servicios
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Configuración de CORS
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll",
-        policy => policy.AllowAnyOrigin()
-                        .AllowAnyMethod()
-                        .AllowAnyHeader());
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+    });
 });
 
 var app = builder.Build();
 
-// Middleware
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -51,8 +68,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
-app.UseAuthorization();
+
+// Agregar autenticación y autorización
+app.UseAuthentication();  // Habilita la autenticación
+app.UseAuthorization();   // Habilita la autorización
+
 app.MapControllers();
 
 app.Run();
-

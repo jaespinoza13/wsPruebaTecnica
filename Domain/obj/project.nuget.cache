@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TYxTdKykadA=",
+  "dgSpecHash": "9NFaqEv0TfI=",
   "success": true,
-  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jespinoza\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
   ],

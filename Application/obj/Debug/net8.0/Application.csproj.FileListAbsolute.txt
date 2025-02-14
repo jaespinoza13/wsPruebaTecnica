@@ -28,3 +28,19 @@ C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Application
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.pdb
 C:\Development_Jhonny_Espinoza\Banco G\Nueva carpeta\wsPruebaTecnica\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\bin\Debug\net8.0\Application.deps.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\bin\Debug\net8.0\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\bin\Debug\net8.0\Application.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\bin\Debug\net8.0\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\bin\Debug\net8.0\Domain.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\Application.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\obj\Debug\net8.0\ref\Application.dll

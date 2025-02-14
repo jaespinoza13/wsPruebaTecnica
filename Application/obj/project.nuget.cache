@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AfVs5apvFzE=",
+  "dgSpecHash": "9sFKw4QdqSw=",
   "success": true,
-  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Banco de Guayaquil\\wsPruebaTecnica\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jespinoza\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\jespinoza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
