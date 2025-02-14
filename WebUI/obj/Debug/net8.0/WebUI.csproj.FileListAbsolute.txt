@@ -308,3 +308,9 @@ C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.pdb
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Serilog.Sinks.Console.dll

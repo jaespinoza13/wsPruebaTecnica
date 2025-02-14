@@ -30,11 +30,19 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            ValidIssuer = builder.Configuration["Jwt:Issuer"], // El emisor de tu JWT
-            ValidAudience = builder.Configuration["Jwt:Audience"], // La audiencia de tu JWT
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"])) // Clave secreta
+            ValidIssuer = builder.Configuration["Jwt:Issuer"], 
+            ValidAudience = builder.Configuration["Jwt:Audience"], 
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"])) 
         };
     });
+
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("logs/auth.log", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
 builder.Services.AddControllers();
 builder.Services.AddAuthorization();
 builder.Services.AddWebUIServices(builder.Configuration);
@@ -69,9 +77,9 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseCors("AllowAll");
 
-// Agregar autenticación y autorización
-app.UseAuthentication();  // Habilita la autenticación
-app.UseAuthorization();   // Habilita la autorización
+
+app.UseAuthentication();  
+app.UseAuthorization();   
 
 app.MapControllers();
 
