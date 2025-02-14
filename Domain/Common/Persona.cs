@@ -7,6 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Domain.Common;
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 public class Persona
 {
@@ -43,4 +46,12 @@ public class Persona
     [NotMapped]
     public string NombreCompleto => $"{Nombres} {Apellidos}";
 
+    // **Nuevos campos para la tabla Usuarios**
+    [Required]
+    [MaxLength(50)]
+    public string Usuario { get; set; }
+
+    [Required]
+    [MaxLength(255)]
+    public string Pass { get; set; } // Considerar encriptar esta contraseña antes de almacenarla
 }

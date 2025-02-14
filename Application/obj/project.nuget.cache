@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AfVs5apvFzE=",
+  "dgSpecHash": "aiX/WyQ+RxF8hf8dU485xUGox8WNxH6MlzmnpbxgdnTiT1DZG+MMtXJP/r/c2JUk+BUaBxkdqVvPsMpjypZB8w==",
   "success": true,
-  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jespinoza\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
-    "C:\\Users\\jespinoza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\jespinoza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\jespinoza\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
   ],
   "logs": []
 }

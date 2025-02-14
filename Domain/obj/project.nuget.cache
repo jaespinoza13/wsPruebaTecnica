@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TYxTdKykadA=",
+  "dgSpecHash": "3G6AnA0+rsdmBcjPQSlUM+aZw2B9leIPBx8Q6ZwGDd6KsUYZRidCTyXZZuXTU2iwvwFaonnsuVOoUBIdRMxUMw==",
   "success": true,
-  "projectFilePath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jespinoza\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -27,14 +27,15 @@ namespace WebUI.Controllers
             {
                 var response = await _mediator.Send(request);
 
+
                 if (response.Mensaje == "La persona ya está registrada")
                 {
-                    return Conflict(response); 
+                    return Conflict(new { exito = false, mensaje = response.Mensaje });
                 }
 
                 if (response.Mensaje == "Registro exitoso")
                 {
-                    return Ok(response); 
+                    return Ok(new { exito = true, mensaje = response.Mensaje });
                 }
 
                 return BadRequest(response); 

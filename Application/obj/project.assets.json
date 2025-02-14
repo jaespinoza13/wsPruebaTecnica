@@ -179,24 +179,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jespinoza\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-      "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\obj\\",
+      "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+      "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -210,8 +205,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj"
+            "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj"
             }
           }
         }
@@ -256,7 +251,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

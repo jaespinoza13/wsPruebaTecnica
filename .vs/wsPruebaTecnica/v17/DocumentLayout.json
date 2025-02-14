@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developer Back 2\\wsPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0B99E2-1983-4EF2-995D-4740942FAFCB}|Infrastructure\\Infrastructure.csproj|c:\\developer back 2\\wspruebatecnica\\infrastructure\\persistence\\registropersonasdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0B99E2-1983-4EF2-995D-4740942FAFCB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\registropersonasdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9EDF05-4325-4C7C-A4EA-7F0F9C932B63}|WebUI\\WebUI.csproj|c:\\developer back 2\\wspruebatecnica\\webui\\controllers\\apipersonascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9EDF05-4325-4C7C-A4EA-7F0F9C932B63}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\apipersonascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C14E6F-EFE8-4EE6-BB30-5AA1F44E0B1E}|Domain\\Domain.csproj|c:\\developer back 2\\wspruebatecnica\\domain\\common\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C14E6F-EFE8-4EE6-BB30-5AA1F44E0B1E}|Domain\\Domain.csproj|solutionrelative:domain\\common\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Common\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\Persona.cs",
+              "ToolTip": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Common\\Persona.cs",
+              "RelativeToolTip": "Domain\\Common\\Persona.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDcAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:44:45.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiPersonasController.cs",
+              "DocumentMoniker": "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\Controllers\\ApiPersonasController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\ApiPersonasController.cs",
+              "ToolTip": "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\Controllers\\ApiPersonasController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\ApiPersonasController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:31:37.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroPersonasDat.cs",
+              "DocumentMoniker": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Persistence\\RegistroPersonasDat.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\RegistroPersonasDat.cs",
+              "ToolTip": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Persistence\\RegistroPersonasDat.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\RegistroPersonasDat.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:26:42.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

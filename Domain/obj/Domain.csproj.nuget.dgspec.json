@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {}
+    "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+    "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\obj\\",
+        "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

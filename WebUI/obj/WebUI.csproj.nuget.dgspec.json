@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\WebUI.csproj": {}
+    "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj": {
+    "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\obj\\",
+        "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj"
+              "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj"
               }
             }
           }
@@ -78,25 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+    "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\obj\\",
+        "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -148,25 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,8 +168,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj": {
-                "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj"
+              "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj": {
+                "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj"
               }
             }
           }
@@ -236,25 +224,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\WebUI.csproj": {
+    "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\WebUI.csproj",
+        "projectUniqueName": "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\WebUI.csproj",
         "projectName": "WebUI",
-        "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\WebUI.csproj",
-        "packagesPath": "C:\\Users\\jespinoza\\.nuget\\packages\\",
-        "outputPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\WebUI\\obj\\",
+        "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\WebUI.csproj",
+        "packagesPath": "C:\\Users\\JHONNY ESPINOZA\\.nuget\\packages\\",
+        "outputPath": "C:\\Developer Back 2\\wsPruebaTecnica\\WebUI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jespinoza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JHONNY ESPINOZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,14 +252,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj": {
-                "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Application\\Application.csproj"
+              "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj": {
+                "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Application\\Application.csproj"
               },
-              "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Domain\\Domain.csproj"
+              "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Domain\\Domain.csproj"
               },
-              "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Development_Jhonny_Espinoza\\Banco G\\Nueva carpeta\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Developer Back 2\\wsPruebaTecnica\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -355,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
