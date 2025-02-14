@@ -60,7 +60,6 @@ public class RegistroPersonasDat : IRegistroPersonasDat
             }
             catch (Exception ex)
             {
-                // Manejo de excepciones
                 return new ResRegistrarPersona { Mensaje = $"Error inesperado: {ex.Message}" };
             }
         }

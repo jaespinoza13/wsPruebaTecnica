@@ -8,5 +8,5 @@ namespace Application.Registro.AgregarPersona;
 
 public class ResRegistrarPersona
 {
-    public string Mensaje { get; set; }
+    public string Mensaje { get; set; } = String.Empty;
 }

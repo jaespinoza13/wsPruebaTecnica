@@ -10,8 +10,8 @@ namespace Application.Login;
 public class ReqValidarUsuario: IRequest<ResValidarUsuario>
 {
     public int Id { get; set; }
-    public string UsuarioNombre { get; set; } 
-    public string Pass { get; set; }
+    public string UsuarioNombre { get; set; } = String.Empty;
+    public string Pass { get; set; } = String.Empty;
     public DateTime FechaCreacion { get; set; } = DateTime.Now;
 
 }

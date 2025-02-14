@@ -10,6 +10,6 @@ namespace Application.Registro.AgregarPersona;
 
 public class ReqRegistrarPersona : IRequest<ResRegistrarPersona>
 {
-    public Persona obj_persona { get; set; }
+    public Persona obj_persona { get; set; } 
 
 }

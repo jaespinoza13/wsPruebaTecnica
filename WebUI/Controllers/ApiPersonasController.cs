@@ -10,7 +10,7 @@ namespace WebUI.Controllers
 {
     [Route("api/personas")]
     [ApiController]
-    [Authorize]  
+    [Authorize]  //Se permite el acceso validando el Token
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status401Unauthorized)]
