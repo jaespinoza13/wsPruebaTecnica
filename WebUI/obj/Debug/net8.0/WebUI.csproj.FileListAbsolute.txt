@@ -216,6 +216,7 @@ C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Dapper.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -307,4 +308,3 @@ C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.pdb
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\obj\Debug\net8.0\ref\WebUI.dll
-C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

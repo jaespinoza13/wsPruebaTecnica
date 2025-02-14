@@ -10,3 +10,16 @@ C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.dll
 C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\refint\Domain.dll
 C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.pdb
 C:\Developer Back\wsPruebaTecnica\Domain\obj\Release\net8.0\ref\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.deps.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\bin\Release\net8.0\Domain.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.AssemblyInfo.cs
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.sourcelink.json
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\refint\Domain.dll
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\Domain.pdb
+C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Release\net8.0\ref\Domain.dll
