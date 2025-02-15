@@ -35,3 +35,16 @@ C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\bin\Debug\net8.0\Domain.dll
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.dll
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Domain\obj\Debug\net8.0\ref\Domain.dll

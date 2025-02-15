@@ -1,4 +1,4 @@
-# Etapa 1: Construcción de la aplicación
+# Etapa 1: Construcciï¿½n de la aplicaciï¿½n
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
@@ -10,12 +10,12 @@ COPY Infrastructure/*.csproj ./Infrastructure/
 COPY WebUI/*.csproj ./WebUI/
 RUN dotnet restore
 
-# Copiar el código restante y compilar la aplicación
+# Copiar el cï¿½digo restante y compilar la aplicaciï¿½n
 COPY . .
 WORKDIR /app/WebUI
 RUN dotnet publish -c Release -o /out
 
-# Etapa 2: Ejecución de la aplicación
+# Etapa 2: Ejecuciï¿½n de la aplicaciï¿½n
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 
@@ -24,7 +24,7 @@ COPY --from=build /out .
 # Exponer el puerto en el que corre la API
 EXPOSE 5078
 
-# Configurar la variable de entorno para producción
+# Configurar la variable de entorno para producciï¿½n
 ENV ASPNETCORE_URLS=http://+:5078
 ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 

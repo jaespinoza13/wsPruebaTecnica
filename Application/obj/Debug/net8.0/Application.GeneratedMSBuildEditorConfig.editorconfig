@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application
-build_property.ProjectDir = C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\Application\
+build_property.ProjectDir = C:\Despliegue Prueba Tecnica\wsPruebaTecnica\Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

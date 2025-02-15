@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebUI
 build_property.RootNamespace = WebUI
-build_property.ProjectDir = C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI\
+build_property.ProjectDir = C:\Despliegue Prueba Tecnica\wsPruebaTecnica\WebUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Development_Jhonny_Espinoza\Banco G\Banco de Guayaquil\wsPruebaTecnica\WebUI
+build_property.MSBuildProjectDirectory = C:\Despliegue Prueba Tecnica\wsPruebaTecnica\WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/Error.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/Index.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/Privacy.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/_ViewImports.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/_ViewStart.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Development_Jhonny_Espinoza/Banco G/Banco de Guayaquil/wsPruebaTecnica/WebUI/Pages/Shared/_Layout.cshtml]
+[C:/Despliegue Prueba Tecnica/wsPruebaTecnica/WebUI/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l9yroajyng

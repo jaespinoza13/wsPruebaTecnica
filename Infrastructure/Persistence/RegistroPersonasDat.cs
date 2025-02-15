@@ -24,44 +24,68 @@ public class RegistroPersonasDat : IRegistroPersonasDat
     {
         using (var connection = new SqlConnection(_connectionString))
         {
-            try
+            await connection.OpenAsync();
+            using (var transaction = connection.BeginTransaction())
             {
-                // Verificar si la persona ya existe en la base de datos
-                var existePersona = await connection.ExecuteScalarAsync<int>(
-                    "SELECT COUNT(*) FROM Usuarios WHERE Usuario = @Usuario",
-                    new { Usuario = request.obj_persona.Apellidos }
-                );
-
-                if (existePersona > 0)
+                try
                 {
-                    return new ResRegistrarPersona { Mensaje = "La persona ya está registrada" };
-                }
+                    // Verificar si la persona ya existe en la base de datos (validando por Número de Identificación)
+                    var existePersona = await connection.ExecuteScalarAsync<int>(
+                        "SELECT COUNT(*) FROM Personas WHERE NumeroIdentificacion = @NumeroIdentificacion",
+                        new { NumeroIdentificacion = request.obj_persona.NumeroIdentificacion },
+                        transaction
+                    );
 
-                // Insertar nueva persona
-                var query = @"
-                INSERT INTO Usuarios (Usuario, Pass) 
-                VALUES (@Usuario, @Pass);
+                    if (existePersona > 0)
+                    {
+                        return new ResRegistrarPersona { Mensaje = "La persona ya está registrada" };
+                    }
+
+                    // Insertar en la tabla Personas
+                    var queryPersona = @"
+                    INSERT INTO Personas (Nombres, Apellidos, NumeroIdentificacion, TipoIdentificacion, Email, FechaCreacion)
+                    VALUES (@Nombres, @Apellidos, @NumeroIdentificacion, @TipoIdentificacion, @Email, @FechaCreacion);
+                    SELECT CAST(SCOPE_IDENTITY() AS INT);";
+
+
+                    await connection.ExecuteAsync(queryPersona, new
+                    {
+                        request.obj_persona.Nombres,
+                        request.obj_persona.Apellidos,
+                        request.obj_persona.NumeroIdentificacion,
+                        request.obj_persona.Email,
+                        request.obj_persona.TipoIdentificacion,
+                        FechaCreacion = DateTime.UtcNow,
+                        NumeroCompleto = $"{request.obj_persona.TipoIdentificacion}-{request.obj_persona.NumeroIdentificacion}",
+                        NombreCompleto = $"{request.obj_persona.Nombres} {request.obj_persona.Apellidos}"
+                    }, transaction);
+
+                    // Insertar en la tabla Usuarios
+                    var queryUsuario = @"
+                INSERT INTO Usuarios (Usuario, Pass, FechaCreacion) 
+                VALUES (@Usuario, @Pass, @FechaCreacion);
                 ";
 
-                var filasAfectadas = await connection.ExecuteAsync(
-                    query,
-                    new { Usuario = request.obj_persona.Apellidos, Pass = request.obj_persona.Apellidos }
-                );
+                    await connection.ExecuteAsync(queryUsuario, new
+                    {
+                        Usuario = request.obj_persona.Usuario,
+                        Pass = request.obj_persona.Pass, // Debería estar encriptada antes de guardarla
+                        FechaCreacion = DateTime.UtcNow
+                    }, transaction);
 
-                if (filasAfectadas > 0)
-                {
+                    // Confirmar la transacción
+                    transaction.Commit();
+
                     return new ResRegistrarPersona { Mensaje = "Registro exitoso" };
                 }
-                else
+                catch (Exception ex)
                 {
-                    return new ResRegistrarPersona { Mensaje = "Error al registrar la persona" };
+                    // Revertir cambios en caso de error
+                    transaction.Rollback();
+                    return new ResRegistrarPersona { Mensaje = $"Error inesperado: {ex.Message}" };
                 }
-
-            }
-            catch (Exception ex)
-            {
-                return new ResRegistrarPersona { Mensaje = $"Error inesperado: {ex.Message}" };
             }
         }
     }
+
 }

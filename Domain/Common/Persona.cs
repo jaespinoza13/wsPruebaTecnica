@@ -43,4 +43,12 @@ public class Persona
     [NotMapped]
     public string NombreCompleto => $"{Nombres} {Apellidos}";
 
+    [Required]
+    [MaxLength(50)]
+    public string Usuario { get; set; }
+
+    [Required]
+    [MaxLength(255)]
+    public string Pass { get; set; }
+
 }
